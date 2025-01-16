@@ -1,3 +1,5 @@
+#개인정보 출력 도킹펜
+
 [리소스 뷰] 에서 DIALOG를 삽입 한 후 Style 을 Child, Border를 None으로 설정한다.
 
 그리고 나서 Group Box, Edit Box, Combo Box, Radio Button, List Box, Check Box, Button을 배치하고 각각 속성을 건들여준다.
